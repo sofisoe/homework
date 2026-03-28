@@ -20,7 +20,7 @@ int main () {
             arr[i]=(l-'a'+1);
     }
         else {
-            cout<<"English little letters please";
+            cout<<"English small letters please";
             arr[i]=0;
         }
     }
