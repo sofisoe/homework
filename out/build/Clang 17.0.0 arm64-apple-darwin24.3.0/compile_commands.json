@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/sofaslucic/Desktop/homework/out/build/Clang 17.0.0 arm64-apple-darwin24.3.0",
+  "command": "/usr/bin/clang++   -g -arch arm64 -o CMakeFiles/homework.dir/02.05.cpp.o -c /Users/sofaslucic/Desktop/homework/02.05.cpp",
+  "file": "/Users/sofaslucic/Desktop/homework/02.05.cpp",
+  "output": "CMakeFiles/homework.dir/02.05.cpp.o"
+}
+]
