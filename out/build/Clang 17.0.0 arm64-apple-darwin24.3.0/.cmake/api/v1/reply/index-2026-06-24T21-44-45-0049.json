@@ -53,7 +53,7 @@
 			}
 		},
 		{
-			"jsonFile" : "toolchains-v1-05629207f7d5c5dcd2fa.json",
+			"jsonFile" : "toolchains-v1-8217b6cde87a809c1003.json",
 			"kind" : "toolchains",
 			"version" : 
 			{
@@ -108,7 +108,7 @@
 						}
 					},
 					{
-						"jsonFile" : "toolchains-v1-05629207f7d5c5dcd2fa.json",
+						"jsonFile" : "toolchains-v1-8217b6cde87a809c1003.json",
 						"kind" : "toolchains",
 						"version" : 
 						{

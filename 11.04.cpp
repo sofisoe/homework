@@ -21,10 +21,10 @@ struct foo
         }
 
         foo operator+(foo rh) {
-            foo res(x, y); {
-                return res;
+            foo res(x, y); 
+            return res;
             }
-        }
+        
     };
 
     void call(function<void()> callable) {
